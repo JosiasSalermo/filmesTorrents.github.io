@@ -1,3 +1,9 @@
 h1{
     text-align: center;
 }
+
+.tm_titulos{
+    margin: 10px;
+    width: 100px;
+    height: 150px;
+}
